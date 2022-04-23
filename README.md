@@ -1,4 +1,4 @@
-  ### 👨‍💻: About Me :
+  ### 👨‍💻 About Me :
   
   - 👋 Hi, I’m Buraev Vasilii </br>
 - 👀 I’m interested in web-development </br>
