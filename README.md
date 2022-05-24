@@ -1,6 +1,6 @@
   ### 👨‍💻 About Me :
   
-  - 👋 Hi, I’m Buraev Vasilii </br>
+- 👋 Hi, I’m Vasilii Buraev </br>
 - 👀 I’m interested in web-development </br>
 - 🌱 I’m currently learning JavaScript </br>
   
