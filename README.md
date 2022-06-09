@@ -1,8 +1,8 @@
   ### 👨‍💻 About Me :
   
-- 👋 Hi, I’m Vasilii Buraev </br>
-- 👀 I’m interested in web-development </br>
-- 🌱 I’m currently learning JavaScript </br>
+ 👋 Hi, I’m Vasilii Buraev </br>
+ 👀 I’m interested in web-development </br>
+ 🌱 I’m currently learning JavaScript </br>
   
   <div id="buges">
   <img src="https://komarev.com/ghpvc/?username=Prince-Gizard&style=flat-square&color=blue" alt=""/>
