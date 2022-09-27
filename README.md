@@ -1,8 +1,12 @@
-  ### 👨‍💻 About Me :
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
+</div>
+
+### 👨‍💻 About Me :
   
- 👋 Hi, I’m Vasilii Buraev </br>
- 👀 I’m interested in web-development </br>
- 🌱 I’m currently learning JavaScript </br>
+ 👋 I’m working as a Frontend Developer </br>
+ 🐝 Interested in beekeeping </br>
+ 🐧 In my free time, i solved problems on my Arch Linux config </br>
   
   <div id="buges">
   <img src="https://komarev.com/ghpvc/?username=Prince-Gizard&style=flat-square&color=blue" alt=""/>
