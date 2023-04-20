@@ -7,6 +7,7 @@
  👋 I’m working as a Frontend Developer </br>
  🐝 Interested in beekeeping </br>
  🐧 In my free time, i solved problems on my Arch Linux config </br>
+ 🦊 This page with pet projects, main hub on GitLab
   
   <div id="buges">
   <img src="https://komarev.com/ghpvc/?username=Prince-Gizard&style=flat-square&color=blue" alt=""/>
